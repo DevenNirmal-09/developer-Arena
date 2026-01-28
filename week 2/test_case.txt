@@ -1,0 +1,23 @@
+TEST CASE 1:
+Input: Name = Priya, Marks = 85
+Expected Output: Grade B, "Very Good! Keep it up!"
+
+TEST CASE 2:
+Input: Name = Rahul, Marks = 95
+Expected Output: Grade A, "Excellent work! Keep shining!"
+
+TEST CASE 3:
+Input: Name = Anjali, Marks = 72
+Expected Output: Grade C, "Good effort! You can do even better"
+
+TEST CASE 4:
+Input: Name = Amit, Marks = 45
+Expected Output: Grade F, "Don't give up! Learn and try again"
+
+TEST CASE 5:
+Input: Marks = -10
+Expected Output: Invalid input message
+
+TEST CASE 6:
+Input: Marks = 110
+Expected Output: Invalid input message
